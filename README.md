@@ -1,4 +1,15 @@
 ### Hi there 👋
+Experienced Professional Engineer (P.Eng.) & Project Management Professional (PMP) with 10 years of industry experience of managing people, managing projects, developing tools, and utilizing programming languages to create efficiencies within my team
+
+🔭 I’m currently working on ...
+- Pursuing my MSc. in Computer Science @ GA Tech 
+
+
+Programming Languages: Python, Pascal
+Database Experience: SQL
+Frameworks & Libraries: Anaconda (Jupyter Notebooks, Pandas Matplotlib, Numpy), Amazon EC2
+Operating Systems: Mac OS, Linux (Ubuntu), Windows
+Development Tools: JIRA
 
 <!--
 **dandia89/dandia89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
